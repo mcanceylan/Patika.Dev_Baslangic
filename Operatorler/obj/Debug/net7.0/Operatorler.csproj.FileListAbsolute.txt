@@ -1,0 +1,15 @@
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\bin\Debug\net7.0\Operatorler.exe
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\bin\Debug\net7.0\Operatorler.deps.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\bin\Debug\net7.0\Operatorler.runtimeconfig.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\bin\Debug\net7.0\Operatorler.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\bin\Debug\net7.0\Operatorler.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\Operatorler.csproj.AssemblyReference.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\Operatorler.AssemblyInfo.cs
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\Operatorler.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\refint\Operatorler.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\Operatorler.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\Operatorler.genruntimeconfig.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Operatorler\obj\Debug\net7.0\ref\Operatorler.dll
