@@ -1,0 +1,15 @@
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\bin\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.exe
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\bin\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.deps.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\bin\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.runtimeconfig.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\bin\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\bin\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.csproj.AssemblyReference.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.AssemblyInfoInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.AssemblyInfo.cs
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\refint\Try_Catch_Finally_ve_Mantiksal_Hatalar.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\Try_Catch_Finally_ve_Mantiksal_Hatalar.genruntimeconfig.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Try_Catch_Finally_ve_Mantiksal_Hatalar\obj\Debug\net7.0\ref\Try_Catch_Finally_ve_Mantiksal_Hatalar.dll
