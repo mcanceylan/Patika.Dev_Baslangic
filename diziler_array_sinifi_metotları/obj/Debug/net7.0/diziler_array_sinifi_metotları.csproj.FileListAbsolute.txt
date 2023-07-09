@@ -1,0 +1,15 @@
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\bin\Debug\net7.0\diziler_array_sinifi_metotları.exe
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\bin\Debug\net7.0\diziler_array_sinifi_metotları.deps.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\bin\Debug\net7.0\diziler_array_sinifi_metotları.runtimeconfig.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\bin\Debug\net7.0\diziler_array_sinifi_metotları.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\bin\Debug\net7.0\diziler_array_sinifi_metotları.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\diziler_array_sinifi_metotları.csproj.AssemblyReference.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\diziler_array_sinifi_metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\diziler_array_sinifi_metotları.AssemblyInfoInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\diziler_array_sinifi_metotları.AssemblyInfo.cs
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\diziler_array_sinifi_metotları.csproj.CoreCompileInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\diziler_array_sinifi_metotları.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\refint\diziler_array_sinifi_metotları.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\diziler_array_sinifi_metotları.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\diziler_array_sinifi_metotları.genruntimeconfig.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\diziler_array_sinifi_metotları\obj\Debug\net7.0\ref\diziler_array_sinifi_metotları.dll
