@@ -1,0 +1,15 @@
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\bin\Debug\net7.0\Metotlar_Overloading.exe
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\bin\Debug\net7.0\Metotlar_Overloading.deps.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\bin\Debug\net7.0\Metotlar_Overloading.runtimeconfig.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\bin\Debug\net7.0\Metotlar_Overloading.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\bin\Debug\net7.0\Metotlar_Overloading.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\Metotlar_Overloading.csproj.AssemblyReference.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\Metotlar_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\Metotlar_Overloading.AssemblyInfoInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\Metotlar_Overloading.AssemblyInfo.cs
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\Metotlar_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\Metotlar_Overloading.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\refint\Metotlar_Overloading.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\Metotlar_Overloading.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\Metotlar_Overloading.genruntimeconfig.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar_Overloading\obj\Debug\net7.0\ref\Metotlar_Overloading.dll

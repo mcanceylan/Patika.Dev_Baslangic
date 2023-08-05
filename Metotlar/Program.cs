@@ -16,7 +16,7 @@
     int sonuc = Topla(a,b);
     Console.WriteLine(sonuc);
 
-
+ 
     Metotlar ornek = new Metotlar();
     ornek.EkranaYazdir(Convert.ToString(sonuc));
 
