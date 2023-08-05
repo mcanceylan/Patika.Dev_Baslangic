@@ -1,0 +1,15 @@
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\bin\Debug\net7.0\Metotlar.exe
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\bin\Debug\net7.0\Metotlar.deps.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\bin\Debug\net7.0\Metotlar.runtimeconfig.json
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\bin\Debug\net7.0\Metotlar.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\bin\Debug\net7.0\Metotlar.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\Metotlar.csproj.AssemblyReference.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\Metotlar.AssemblyInfo.cs
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\Metotlar.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\refint\Metotlar.dll
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\Metotlar.pdb
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\Metotlar.genruntimeconfig.cache
+C:\Users\c2meh\Desktop\Softwares\Patika.Dev_Baslangic\Metotlar\obj\Debug\net7.0\ref\Metotlar.dll
